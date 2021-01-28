@@ -1,1 +1,4 @@
 一个小文本
+test
+right
+beautiful
